@@ -1,0 +1,534 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cord",
+				"coordinates="
+			],
+			[
+				"move",
+				"move_for_tail_end"
+			],
+			[
+				"in",
+				"instruction="
+			],
+			[
+				"co",
+				"cords"
+			],
+			[
+				"make",
+				"make_a_point"
+			],
+			[
+				"op",
+				"popleft"
+			],
+			[
+				"p",
+				"popleft"
+			],
+			[
+				"Snake",
+				"SnakePoint"
+			],
+			[
+				"resu",
+				"result_cuttoff"
+			],
+			[
+				"RE",
+				"RESULTPROD"
+			],
+			[
+				"WI",
+				"WEIGHTS"
+			],
+			[
+				"__",
+				"__supertype__"
+			],
+			[
+				"is",
+				"isinstance"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"typ",
+				"typing"
+			],
+			[
+				"Na",
+				"NamedTuple"
+			],
+			[
+				"__get",
+				"__getitem__"
+			],
+			[
+				"Name",
+				"NamedTuple"
+			],
+			[
+				"B",
+				"BaseAB"
+			],
+			[
+				"over",
+				"override"
+			],
+			[
+				"Not",
+				"NotImplementedError"
+			],
+			[
+				"_re",
+				"__repr__"
+			],
+			[
+				"python",
+				"python_stuff"
+			],
+			[
+				"__re",
+				"__repr__"
+			],
+			[
+				"ret",
+				"retanother"
+			],
+			[
+				"asyn",
+				"asyncio"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "deproj.sublime-project",
+			"file_size": 1586,
+			"file_write_time": 134391748377506374,
+			"settings":
+			{
+				"buffer_size": 1586,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAygEAAAAAAAB3BAAAewogICAgImZvbGRlcnMiOgogICAgWwogICAgICAgIHsKICAgICAgICAgICAgInBhdGgiOiAiLiIsCiAgICAgICAgICAgICJuYW1lIjogImRlcHJvaiIsCiAgICAgICAgICAgICJmb2xkZXJfZXhjbHVkZV9wYXR0ZXJucyI6CiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICIuZ2l0IiwKICAgICAgICAgICAgICAgICJfX3B5Y2FjaGVfXyIsCiAgICAgICAgICAgICAgICAiLnB5dGVzdF9jYWNoZSIsCiAgICAgICAgICAgICAgICAiLm15cHlfY2FjaGUiLAogICAgICAgICAgICAgICAgIi5pcHluYl9jaGVja3BvaW50cyIsCiAgICAgICAgICAgICAgICAiYnVpbGQiLAogICAgICAgICAgICAgICAgImRpc3QiLAogICAgICAgICAgICAgICAgIiouZWdnLWluZm8iCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgICJmaWxlX2V4Y2x1ZGVfcGF0dGVybnMiOgogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAiKi5zdWJsaW1lLXdvcmtzcGFjZSIsCiAgICAgICAgICAgICAgICAiKi5weWMiLAogICAgICAgICAgICAgICAgIioucHlvIiwKICAgICAgICAgICAgICAgICIuRFNfU3RvcmUiCiAgICAgICAgICAgIF0KICAgICAgICB9CiAgICBdLAogICAgInNldHRpbmdzIjoKICAgIHsKICAgICAgICAidGFiX3NpemUiOiA0LAogICAgICAgICJ0cmFuc2xhdGVfdGFic190b19zcGFjZXMiOiB0cnVlLAogICAgICAgICJ0cmltX3RyYWlsaW5nX3doaXRlX3NwYWNlX29uX3NhdmUiOiB0cnVlLAogICAgICAgICJlbnN1cmVfbmV3bGluZV9hdF9lb2Zfb25fc2F2ZSI6IHRydWUsCiAgICAgICAgInJ1bGVycyI6IFs4OCwgMTAwXQogICAgfSwKICAgICJidWlsZF9zeXN0ZW1zIjoKICAgIFsKICAgICAgICB7CiAgICAgICAgICAgICJuYW1lIjogIkNvbmRhIEVudmlyb25tZW50IiwKICAgICAgICAgICAgImNtZCI6IFsiL1VzZXJzL29sZWdpb25vdi9taW5pY29uZGEzL2VudnMvZGVwcm9qL2Jpbi9weXRob24iLCAiLXUiLCAiJGZpbGUiXSwKICAgICAgICAgICAgImZpbGVfcmVnZXgiOiAiXlsgXSpGaWxlIFwiKC4uLio/KVwiLCBsaW5lIChbMC05XSopIiwKICAgICAgICAgICAgInNlbGVjdG9yIjogInNvdXJjZS5weXRob24iLAogICAgICAgICAgICAid29ya2luZ19kaXIiOiAiJGZpbGVfcGF0aCIKICAgICAgICB9CiAgICBdCn0K",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAdwQAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					6,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAALwYAAAAAAADKAQAAewogICAgImZvbGRlcnMiOgogICAgWwogICAgICAgIHsKICAgICAgICAgICAgInBhdGgiOiAiLiIKICAgICAgICB9CiAgICBdLAogICAgInNldHRpbmdzIjoKICAgIHsKICAgICAgICAidGFiX3NpemUiOiA0CiAgICB9LAogICAgImJ1aWxkX3N5c3RlbXMiOgogICAgWwogICAgICAgIHsKICAgICAgICAgICAgIm5hbWUiOiAiQ29uZGEgRW52aXJvbm1lbnQiLAogICAgICAgICAgICAiY21kIjogWyIvVXNlcnMvb2xlZ2lvbm92L21pbmljb25kYTMvZW52cy9kZXByb2ovYmluL3B5dGhvbiIsICItdSIsICIkZmlsZSJdLAogICAgICAgICAgICAiZmlsZV9yZWdleCI6ICJeWyBdKkZpbGUgXCIoLi4uKj8pXCIsIGxpbmUgKFswLTldKikiLAogICAgICAgICAgICAic2VsZWN0b3IiOiAic291cmNlLnB5dGhvbiIsCiAgICAgICAgICAgICJ3b3JraW5nX2RpciI6ICIkZmlsZV9wYXRoIgogICAgICAgIH0KICAgIF0KfQo",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAMoBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					9,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete to Hard BOL.sublime-macro"
+					},
+					"AQAAAAcDAAAAAAAABwMAAAAAAAASAAAAICAgICAgICAicnVsZXJzIjos",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAZAwAAAAAAABkDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					10,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAYDAAAAAAAABgMAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAHAwAAAAAAAAcDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAAYDAAAAAAAABwMAAAAAAAAAAAAABwMAAAAAAAAPAwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAGAwAAAAAAAAYDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					22,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAA8DAAAAAAAAEQMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAPAwAAAAAAAA8DAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": "rulers"
+					},
+					"BgAAABADAAAAAAAAEQMAAAAAAAAAAAAAEQMAAAAAAAASAwAAAAAAAAAAAAASAwAAAAAAABMDAAAAAAAAAAAAABMDAAAAAAAAFAMAAAAAAAAAAAAAFAMAAAAAAAAVAwAAAAAAAAAAAAAVAwAAAAAAABYDAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAQAwAAAAAAABADAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAABcDAAAAAAAAGAMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAXAwAAAAAAABcDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					26,
+					1,
+					"left_delete",
+					null,
+					"AQAAABcDAAAAAAAAFwMAAAAAAAABAAAAOw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAYAwAAAAAAABgDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": ":,"
+					},
+					"AgAAABcDAAAAAAAAGAMAAAAAAAAAAAAAGAMAAAAAAAAZAwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAXAwAAAAAAABcDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAABgDAAAAAAAAGQMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAYAwAAAAAAABgDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					32,
+					1,
+					"insert_snippet",
+					{
+						"contents": "[$0]"
+					},
+					"AQAAABkDAAAAAAAAGwMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAZAwAAAAAAABkDAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"resta",
+				"LSP: Restart Server"
+			],
+			[
+				"LSP: ",
+				"LSP: Troubleshoot Server"
+			],
+			[
+				"LSP",
+				"LSP: Restart Server"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"prefere",
+				"Preferences: LSP Server Configurations"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"LSP: rest",
+				"LSP: Troubleshoot Server"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/olegionov/python_stuff/deproj"
+	],
+	"file_history":
+	[
+		"/Users/olegionov/python_stuff/deproj/main.py",
+		"/Users/olegionov/python_stuff/deproj/.sublime-project",
+		"/Users/olegionov/python_stuff/monads/monadexperiment.py",
+		"/Users/olegionov/python_stuff/monads/patterns.py",
+		"/Users/olegionov/python_stuff/proj2/hello.py",
+		"/Users/olegionov/python_stuff/lessons_experiments/untitled.py",
+		"/Users/olegionov/python_stuff/fluent_python/t1.py",
+		"/Users/olegionov/python_stuff/fluent_python/t2.py",
+		"/Users/olegionov/python_stuff/fluent_python/a3.py",
+		"/Users/olegionov/python_stuff/fluent_python/snakeding.py",
+		"/Users/olegionov/python_stuff/fluent_python/categories.py",
+		"/Users/olegionov/Library/Application Support/Sublime Text/Packages/User/Fpythonconda.sublime-build",
+		"/Users/olegionov/python_stuff/monads/dictexp.py",
+		"/Users/olegionov/haskellstuff/hello.hs",
+		"/untitled",
+		"/Users/olegionov/Library/Caches/Sublime Text/Package Storage/LSP-pyright/language-server/node_modules/pyright/dist/typeshed-fallback/stdlib/builtins.pyi",
+		"/Users/olegionov/python_stuff/lessons_experiments/exp1.py",
+		"/Users/olegionov/python_stuff/main.py",
+		"/Users/olegionov/python_stuff/person.py",
+		"/Users/olegionov/.zshrc",
+		"/Users/olegionov/pystuff/test1/main.py",
+		"/Users/olegionov/RStuff/main.R"
+	],
+	"find":
+	{
+		"height": 52.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "deproj.sublime-project",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1586,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								889,
+								889
+							]
+						],
+						"settings":
+						{
+							"lsp_uri": "file:///Users/olegionov/python_stuff/deproj/deproj.sublime-project",
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 689.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 52.0
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.exec":
+	{
+		"height": 406.0,
+		"history":
+		[
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.mdpopups-dummy":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "Conda Environment",
+	"project": "deproj.sublime-project",
+	"replace":
+	{
+		"height": 100.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/RStuff/main.R"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"lsp_show_inlay_hints": false
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

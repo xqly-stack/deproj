@@ -1,0 +1,58 @@
+{
+    "folders":
+    [
+        {
+            "path": ".",
+            "name": "deproj",
+            "folder_exclude_patterns":
+            [
+                ".git",
+                "__pycache__",
+                ".pytest_cache",
+                ".mypy_cache",
+                ".ipynb_checkpoints",
+                "build",
+                "dist",
+                "*.egg-info"
+            ],
+            "file_exclude_patterns":
+            [
+                "*.sublime-workspace",
+                "*.pyc",
+                "*.pyo",
+                ".DS_Store"
+            ]
+        }
+    ],
+    "settings":
+    {
+        "tab_size": 4,
+        "translate_tabs_to_spaces": true,
+        "trim_trailing_white_space_on_save": true,
+        "ensure_newline_at_eof_on_save": true,
+        "rulers": [],
+        "LSP":
+        {
+            "LSP-pyright":
+            {
+                "settings":
+                {
+                    "python.pythonPath": "/Users/olegionov/miniconda3/envs/deproj/bin/python",
+                    "python.analysis.typeCheckingMode": "strict",
+                    "python.analysis.diagnosticMode": "workspace",
+                    "python.analysis.useLibraryCodeForTypes": true
+                }
+            }
+        }
+    },
+    "build_systems":
+    [
+        {
+            "name": "Conda Environment",
+            "cmd": ["/Users/olegionov/miniconda3/envs/deproj/bin/python", "-u", "$file"],
+            "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+            "selector": "source.python",
+            "working_dir": "$file_path"
+        }
+    ]
+}
